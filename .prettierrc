@@ -1,0 +1,6 @@
+{
+  "trailingComma": "es5",
+  "semi": false,
+  "singleQuote": true,
+  // お好みで Prettier の設定を追加
+}
