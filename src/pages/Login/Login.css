@@ -1,0 +1,11 @@
+.loginid {
+  display: flex;
+  flex-direction: column;
+}
+form.formInput {
+  display: table;
+}
+
+div.formInput {
+  display: table-row;
+}

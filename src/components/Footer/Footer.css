@@ -1,7 +1,12 @@
+.wrapper {
+}
+
 .Footer {
-  background-color: #3B4043;
+  background-color: #3b4043;
   color: white;
-  /* align-items: center;
-  justify-content: center; */
+  justify-content: space-between;
   text-align: center;
+  position: absolute; /*←絶対位置*/
+  bottom: 0; /*下に固定*/
+  width: 100%;
 }
